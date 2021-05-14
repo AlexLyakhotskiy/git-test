@@ -1,0 +1,26 @@
+[33mcommit 1515d74e44624f33bf0482db31282327a1796271[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m)[m
+Author: Ostap Pluzhnik <plostvik@gmail.com>
+Date:   Fri May 14 19:35:01 2021 +0300
+
+    updated header
+
+[33mcommit 9a0af62236cb4a4edada231fca13227b12ccd72d[m
+Merge: c529372 7e2e5a0
+Author: Alexander Lyakhotskiy <83364690+AlexLyakhotskiy@users.noreply.github.com>
+Date:   Fri May 14 19:29:32 2021 +0300
+
+    Merge pull request #1 from AlexLyakhotskiy/feature/header
+    
+    added header
+
+[33mcommit 7e2e5a04b7e79c97924cde5ebe2854927d5e94b1[m[33m ([m[1;31morigin/feature/header[m[33m, [m[1;32mfeature/header[m[33m)[m
+Author: Alexander Lyakhotskiy <alexlyakhotskiy@gmail.com>
+Date:   Fri May 14 19:21:44 2021 +0300
+
+    added header
+
+[33mcommit c529372e9a880684d7c20c1c07248b66a3e44557[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Alexander Lyakhotskiy <83364690+AlexLyakhotskiy@users.noreply.github.com>
+Date:   Fri May 14 19:07:04 2021 +0300
+
+    Initial commit
